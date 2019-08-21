@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tapiocraft",
+  "name": "Tapiocraft",
+  "description": "Tapioca mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tomosige"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
